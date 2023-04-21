@@ -1,0 +1,14 @@
+   USER MANUAL
+1. Install the pip sql.connector in the system through command prompt.
+
+2. Create a user ID and password table in MySQL
+
+3. Copy all the text files and the csv files.
+
+4. Make sure you put all the files in a folder that is accessible by the python software.
+
+5. Copy the complete source code on the python software.
+
+6. Run the source code and play the games.
+
+THANK YOU!!!

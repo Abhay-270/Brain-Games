@@ -1,0 +1,3 @@
+create table user(username varchar(25) ,password varchar(8));
+
+insert into user values('Abhay','abhay123');
